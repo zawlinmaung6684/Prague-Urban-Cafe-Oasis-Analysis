@@ -9,7 +9,9 @@ This project maps the structural intersection of these two spatial assets in Pra
 ## Data Pipeline & Architecture
 The workflow transitions through an end-to-end vector pipeline optimized for precise spatial geometry operations:
 
-Please check this workflow: [[Prague Cafe Oases Analysis - Workflow.canvas|LINK]].
+<img width="1672" height="1049" alt="Prague Cafe Oases Analysis - Workflow" src="https://github.com/user-attachments/assets/7b8daa67-7d2d-4734-b368-e3a64d89ece3" />
+
+
 ### 1. Layer Separation & Homogeneity
 Raw vector spatial features are ingested from OpenStreetMap via `OSMnx`. The data is cleaned and separated into geometrically homogeneous layers to ensure topological validity:
 - **Points:** `amenity == 'cafe'`
