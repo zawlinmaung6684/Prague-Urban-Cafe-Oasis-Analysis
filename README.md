@@ -39,7 +39,7 @@ Running descriptive summary statistics (`.describe()`) over the final dataset yi
 | District Median (50% Percentile) | 0.000 cafes / $\text{km}^2$ |
 | District Maximum Density         | 3.348 cafes / $\text{km}^2$ |
 
-## Analytical Conclusions
+### Analytical Conclusions
 - **Pervasive Green Integration:** The Median Density is a hard 0.00. This mathematically proves that in over 50% of Prague's administrative districts, 100% of coffee shops are located within a 10-minute walk of a park.
 - **Extreme Right Skew:** The massive gap between the Median (0.00) and the Mean (0.114), combined with the heavily spiked maximum value (3.35), confirms that coffee-to-nature isolation is not a systemic city-wide crisis.
 - **Hyper-Localized Commercialization:** Prague features exceptional green accessibility overall. The isolated "Oases" are highly concentrated anomalies confined almost exclusively to historic, ultra-dense commercial centers (e.g., _Praha 1 / Old Town_) where historic preservation and intensive commercial development have locked out green infrastructure.
